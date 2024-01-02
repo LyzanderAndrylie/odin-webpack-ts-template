@@ -17,6 +17,9 @@
     "plugins": [
         "@typescript-eslint"
     ],
+    "settings": {
+        "import/resolver": "webpack"
+    },
     "rules": {
     }
 }
